@@ -1,0 +1,1 @@
+<view class="container"><ws-carema class="vue-ref" bind:scanItem="__e" bind:scanList="__e" vue-id="8dd740cc-1" data-ref="carema" data-event-opts="{{[['^scanItem',[['scanItem']]],['^scanList',[['scanList']]]]}}" bind:__l="__l"></ws-carema></view>
